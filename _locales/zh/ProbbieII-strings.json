@@ -3,17 +3,17 @@
 
 "ProbbieII.Read_RBlock|block": "讀取右側紅外線測距值",
 "ProbbieII.Read_LBlock|block": "讀取左側紅外線測距值",
-"PobbieII.RBlock|block": "右側IR值是否大於 %thresholdR|值 ",
-"PobbieII.LBlock|block": "左側IR值是否大於 %thresholdL|值 ",
-"PobbieII.forward|block": "寶比II向前行走",
-"PobbieII.backward|block": "寶比II向後行走",
-"PobbieII.stopWalk|block": "寶比II停止行走",
-"PobbieII.rightWard|block": "寶比II向右旋轉",
-"PobbieII.leftWard|block": "寶比II向左旋轉",
-"PobbieII.stopTurn|block": "寶比II停止旋轉",
-"PobbieII.vibrate|block": "寶比II踱步 %time|次 ",
-"PobbieII.shake_head|block": "寶比II搖搖頭 %time|次 ",
-"PobbieII.dance|block": "寶比II愛跳舞 %time|次 ", 
-"PobbieII.drawFace|block": "顯示寶比II表情 %RX_Data|(APP專用)"
+"ProbbieII.RBlock|block": "右側IR值是否大於 %thresholdR|值 ",
+"ProbbieII.LBlock|block": "左側IR值是否大於 %thresholdL|值 ",
+"ProbbieII.forward|block": "寶比II向前行走",
+"ProbbieII.backward|block": "寶比II向後行走",
+"ProbbieII.stopWalk|block": "寶比II停止行走",
+"ProbbieII.rightWard|block": "寶比II向右旋轉",
+"ProbbieII.leftWard|block": "寶比II向左旋轉",
+"ProbbieII.stopTurn|block": "寶比II停止旋轉",
+"ProbbieII.vibrate|block": "寶比II踱步 %time|次 ",
+"ProbbieII.shake_head|block": "寶比II搖搖頭 %time|次 ",
+"ProbbieII.dance|block": "寶比II愛跳舞 %time|次 ", 
+"ProbbieII.drawFace|block": "顯示寶比II表情 %RX_Data|(APP專用)"
 }
 
