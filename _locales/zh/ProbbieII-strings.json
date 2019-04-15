@@ -1,8 +1,8 @@
 {
-"ProbbieII|block": "寶比程式方塊",
+"ProbbieII|block": "寶比II程式方塊",
 
-"ProbbieII.Read_RBlock|block": "讀取右側紅外線測距值(0~1024)",
-"ProbbieII.Read_LBlock|block": "讀取左側紅外線測距值(0~1024)",
+"ProbbieII.Read_RBlock|block": "讀取右側紅外線測距值",
+"ProbbieII.Read_LBlock|block": "讀取左側紅外線測距值",
 "ProbbieII.RBlock|block": "右側IR值是否大於 %thresholdR|值 ",
 "ProbbieII.LBlock|block": "左側IR值是否大於 %thresholdL|值 ",
 "ProbbieII.forward|block": "寶比II向前行走",
